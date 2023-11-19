@@ -21,7 +21,7 @@ Before you begin, make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/sub4me.git
+    git clone https://github.com/NobleOsinachi/sub4me.git
     cd sub4me
     ```
 
