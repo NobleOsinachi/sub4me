@@ -28,7 +28,7 @@ Before you begin, make sure you have the following installed on your machine:
 2. **Install backend dependencies:**
 
     ```bash
-    cd backend
+    cd sub4me
     dotnet restore
     ```
 
